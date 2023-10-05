@@ -1,3 +1,5 @@
+![logo](https://github.com/ankitaydv2001/ankitydv2001/blob/main/SOFTWARE%20DEVELOPER.png)
+
 <h1 align="center">Hi 👋, I'm Ankita Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
